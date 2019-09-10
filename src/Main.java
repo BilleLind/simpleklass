@@ -41,7 +41,7 @@ public class Main {
 
 
         System.out.println("in WoW there have been " + WoW.getCopiesSold() +" accounts since 2004 ");
-        System.out.println("LoL is free therefore " + LoL.getCopiesSold() + "sales of copies");
+        System.out.println("LoL is free therefore " + LoL.getCopiesSold() + " sales of copies");
         System.out.println("CsGo have sold around " + CsGo.getCopiesSold());
         System.out.println("Minecraft have sold " + Minecraft.getCopiesSold());
 
